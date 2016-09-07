@@ -1,3 +1,3 @@
-# Atelier Live Codin Git / GitHub
+# Atelier Live Coding Git / GitHub
 ## -------------------------------
 
